@@ -1,0 +1,1 @@
+Developed a Python-based expense tracker application using SQLite for database management. The application allows users to manage and track their expenses efficiently with various features for entering, viewing, and editing data.
